@@ -1,6 +1,6 @@
 token=NTIxMjYyNTg1ODI4NDc0OTA2.Du53Rw.mhD_8QyBWSU2emuQ8V6QO8lLUoA
 owner=246256928374784001
 prefix=2
-game= 2play
+game= 2play | Lions Throne
 stayinchannel=true
 songinstatus=false 
